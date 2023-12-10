@@ -35,6 +35,54 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
+    },
+    {
+      "cityName": "Vienna",
+      "country": "Austria",
+      "emoji": "🇦🇹",
+      "date": "2023-12-10T19:55:30.913Z",
+      "notes": "amazing :)",
+      "position": {
+        "lat": "48.13525464463054",
+        "lng": "16.567382812500004"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Salzburg",
+      "country": "Austria",
+      "emoji": "🇦🇹",
+      "date": "2023-12-10T20:00:23.859Z",
+      "notes": "my new home",
+      "position": {
+        "lat": "47.80133759267489",
+        "lng": "13.079223632812502"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Milan",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2023-12-10T20:10:31.930Z",
+      "notes": "beautiful city",
+      "position": {
+        "lat": "45.45028423449963",
+        "lng": "9.190063476562502"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Paris",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-12-10T20:21:30.508Z",
+      "notes": "Nice City",
+      "position": {
+        "lat": "48.84165142950336",
+        "lng": "2.3510742187500004"
+      },
+      "id": 98443201
     }
   ]
 }
