@@ -3,10 +3,11 @@ import {Link} from "react-router-dom";
 import PageNav from "../components/PageNav";
 
 import styles from "./Homepage.module.css";
+import bgImage from "../images/bg.jpg";
 
 export default function Homepage() {
   return (
-    <main className={styles.homepage}>
+    <main className={styles.homepage} style={{backgroundImage: `linear-gradient(rgba(36, 42, 46, 0.8),rgba(36, 42, 46, 0.8)), url(${bgImage})`}}>
       <PageNav />
       <section>
         <h1>
